@@ -1,15 +1,12 @@
 /**
  *
- * @author 
+ * @jaco0850 
  */
 public class Main {
-
-  /**
-   * The method that is executed when you hit the run button.
-   * @param args the command line arguments
-   */
+public static void chaotic(int 5){
+ int randNum = (int)(Math.random()*(5 - 1 + 1))+ 1;
+}
   public static void main(String[] args) {
-    // TODO code application logic here
-    
+    system.out.println(randNum);
   }
 }
